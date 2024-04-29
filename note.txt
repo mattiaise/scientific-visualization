@@ -1,0 +1,11 @@
+calcolo della luminosità della stella (per calcolo della zona abitabile):
+La luminosità di una stella può essere calcolata utilizzando la legge di Stefan-Boltzmann, che stabilisce che la luminosità (L) è proporzionale alla quarta potenza della sua temperatura superficiale (T). La formula per la luminosità stellare è la seguente:
+
+L = 4πR^2σT^4
+
+Dove:
+L è la luminosità della stella (in watt),
+R è il raggio della stella (in metri),
+σ è la costante di Stefan-Boltzmann (5.67 × 10^-8 watt per metro quadrato per Kelvin alla quarta potenza),
+T è la temperatura superficiale della stella (in Kelvin).
+In questa formula, si suppone che la stella sia una sfera perfetta. Questa è una formula generale per calcolare la luminosità di una stella in base al suo raggio e alla sua temperatura superficiale.
