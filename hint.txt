@@ -3,6 +3,8 @@ link materiali del corso: https://unimi2013.sharepoint.com/sites/ScientificDataV
 
 usare colori per daltonici per avere punti aggiuntivi!
 
+Ciao 
+
 legenda csv:
 COLUMN pl_hostname:    Host Name
 COLUMN pl_letter:      Planet Letter
