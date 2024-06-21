@@ -1,4 +1,5 @@
-link csv: https://data.world/markmarkoh/kepler-confirmed-planets
+link planet dataset: https://data.world/markmarkoh/kepler-confirmed-planets
+link heart dataset: https://www.kaggle.com/datasets/rashadrmammadov/heart-disease-prediction
 link materiali del corso: https://unimi2013.sharepoint.com/sites/ScientificDataVisualization/Class%20Materials/Forms/AllItems.aspx?id=%2Fsites%2FScientificDataVisualization%2FClass%20Materials%2FAA2023%2D2024&p=true&ga=1
 lavoro dottore: https://github.com/DaniBond2/Visualizzazione-Scientifica/tree/main
 
