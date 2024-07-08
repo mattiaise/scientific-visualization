@@ -1,5 +1,5 @@
 nb: https://www.kaggle.com/code/fahadrehman07/heart-disease-prediction-using-9-models
-dt: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download
+df: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data?resource=download
 
 Descrizione colonne 
 
